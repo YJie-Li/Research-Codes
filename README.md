@@ -1,5 +1,5 @@
 # Research-Codes
-The codes for research
+The codes for research.
 The codes are for the research of the application of novel multi-source information fusion model for coal and gas outburst prediction.
 Paper title: Application of novel multi-source information fusion model for coal and gas outburst prediction.
 Authors: Yingjie Li, Yongguo Yang, Bo Jiang.
